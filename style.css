@@ -108,6 +108,16 @@ label {
   text-transform: uppercase;
 }
 
+.test {
+  color: darkslategrey;
+  
+}
+
+.test:hover{
+  color: red;
+  letter-spacing: .05em;
+}
+
 
 /* #note {
   font-family: 'Rock Salt', cursive;
